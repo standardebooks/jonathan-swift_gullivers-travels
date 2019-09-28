@@ -40,3 +40,13 @@ figure img{
 figure + p{
 	text-indent: 0;
 }
+
+#chapter-1-3 blockquote p,
+#chapter-1-7 blockquote p{
+	text-indent: 0;
+}
+
+#chapter-1-7 blockquote p:nth-child(even){
+	font-variant: small-caps;
+	margin-top: 1em;
+}
