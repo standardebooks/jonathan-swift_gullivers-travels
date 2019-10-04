@@ -29,6 +29,7 @@ footer{
 figure{
 	margin: 1em auto;
 	text-align: center;
+	max-width: 500px;
 }
 
 figure img{
