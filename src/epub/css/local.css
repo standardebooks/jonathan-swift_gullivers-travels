@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 [epub|type~="bridgehead"]{
 	display: inline-block;
@@ -50,4 +51,8 @@ figure + p{
 #chapter-1-7 blockquote p:nth-child(even){
 	font-variant: small-caps;
 	margin-top: 1em;
+}
+
+blockquote[xml|lang]{
+	font-style: italic;
 }
