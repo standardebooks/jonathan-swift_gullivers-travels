@@ -24,9 +24,10 @@ footer{
 }
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
-	max-width: 500px;
+	max-width: 30em;
 }
 
 figure img{
