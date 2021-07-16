@@ -57,6 +57,8 @@
 		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">52</meta>
+		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
 		<dc:description id="description">An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Gulliver’s Travels&lt;/i&gt; was published in 1726 and is probably the most famous work by &lt;a href="https://standardebooks.org/ebooks/jonathan-swift"&gt;Jonathan Swift&lt;/a&gt;. It was an instant hit—selling out within a week—and has never been out of print, as well as having been adapted many times.&lt;/p&gt;
