@@ -69,7 +69,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/829</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.272082</dc:source>
-		<meta property="se:word-count">104315</meta>
+		<meta property="se:word-count">104318</meta>
 		<meta property="se:reading-ease.flesch">50.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Gulliver%E2%80%99s_Travels</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jonathan-swift_gullivers-travels</meta>
