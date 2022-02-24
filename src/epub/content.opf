@@ -99,6 +99,7 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<dc:contributor id="producer-2">David Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
