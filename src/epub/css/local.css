@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
@@ -10,7 +10,7 @@
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
+[epub|type~="se:bridgehead"] i{
 	font-style: normal;
 }
 
