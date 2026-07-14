@@ -34,7 +34,7 @@
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="fulltitle">Travels into Several Remote Nations of the World in Four Parts by Lemuel Gulliver, First a Surgeon, and Then a Captain of Several Ships</dc:title>
 		<meta property="file-as" refines="#fulltitle">Travels into Several Remote Nations of the World in Four Parts by Lemuel Gulliver, First a Surgeon, and Then a Captain of Several Ships</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-2">Satire</dc:subject>
 		<dc:subject id="subject-3">Travelers -- Fiction</dc:subject>
