@@ -73,7 +73,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/829</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.272082</dc:source>
-		<meta property="schema:wordCount">104057</meta>
+		<meta property="schema:wordCount">104058</meta>
 		<meta property="schema:educationalLevel">50.74</meta>
 		<link href="https://en.wikipedia.org/wiki/Gulliver%E2%80%99s_Travels" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
