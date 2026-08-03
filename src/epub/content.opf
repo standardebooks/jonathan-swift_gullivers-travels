@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels</dc:identifier>
 		<dc:date>2019-10-22T14:32:24Z</dc:date>
@@ -63,13 +63,13 @@
 		<meta id="collection-4" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">4</meta>
-		<dc:description id="description">An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Gulliver’s Travels&lt;/i&gt; was published in 1726 and is probably the most famous work by &lt;a href="https://standardebooks.org/ebooks/jonathan-swift"&gt;Jonathan Swift&lt;/a&gt;. It was an instant hit—selling out within a week—and has never been out of print, as well as having been adapted many times.&lt;/p&gt;
 			&lt;p&gt;Lemuel Gulliver, an English surgeon on the &lt;i&gt;Antelope&lt;/i&gt;, is shipwrecked and washed up on the island of Lilliput, where the inhabitants are less than six inches tall. This part of the book is a thinly veiled attack on the political classes of the time, as the Lilliputians focus on the minutiae of life, most notably the rift which has developed according to which end of a boiled egg gets opened at breakfast—the big end or the little end.&lt;/p&gt;
 			&lt;p&gt;On his second recorded journey he is abandoned on an island of giants where he is paraded as a curiosity at local markets and fairs. On his third journey he is marooned by pirates and is rescued by the inhabitants of a floating island devoted to music, mathematics and astronomy. On his final journey he meets the Houyhnhnms, a race of talking horses who have subdued the Yahoos, creatures who resemble humans.&lt;/p&gt;
 			&lt;p&gt;On his return to England, Gulliver has a very different outlook on life and views the human race in a very different way.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/829</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.272082</dc:source>
