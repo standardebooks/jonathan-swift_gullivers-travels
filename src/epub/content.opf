@@ -63,7 +63,7 @@
 		<meta id="collection-4" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">4</meta>
-		<dc:abstract>An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.</dc:abstract>
+		<meta property="schema:abstract">An Englishman travels to fictional islands where he meets tiny people, giants, magicians and talking horses.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Gulliver’s Travels&lt;/i&gt; was published in 1726 and is probably the most famous work by &lt;a href="https://standardebooks.org/ebooks/jonathan-swift"&gt;Jonathan Swift&lt;/a&gt;. It was an instant hit—selling out within a week—and has never been out of print, as well as having been adapted many times.&lt;/p&gt;
 			&lt;p&gt;Lemuel Gulliver, an English surgeon on the &lt;i&gt;Antelope&lt;/i&gt;, is shipwrecked and washed up on the island of Lilliput, where the inhabitants are less than six inches tall. This part of the book is a thinly veiled attack on the political classes of the time, as the Lilliputians focus on the minutiae of life, most notably the rift which has developed according to which end of a boiled egg gets opened at breakfast—the big end or the little end.&lt;/p&gt;
